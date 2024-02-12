@@ -1,0 +1,118 @@
+{
+  "states": [
+    {
+      "name": "Maharashtra",
+      "temperature": "30°C",
+      "population": "112 million",
+      "asset_allocation": {
+        "Technology": "40",
+        "Manufacturing": "30",
+        "Services": "30"
+      },
+      "fund_performance": {
+        "2022": "+10%",
+        "2023": "+15%",
+        "2024": "+12%"
+      },
+      "companies": [
+        {
+          "name": "Tata Motors",
+          "symbol": "TTM",
+          "stock_price_change": "+2.5%",
+          "volume": "2.5 million",
+          "market_capture": "15%"
+        },
+        {
+          "name": "Reliance Industries",
+          "symbol": "RELI",
+          "stock_price_change": "+3.2%",
+          "volume": "3.8 million",
+          "market_capture": "18%"
+        },
+        {
+          "name": "Infosys",
+          "symbol": "INFY",
+          "stock_price_change": "-1.8%",
+          "volume": "1.1 million",
+          "market_capture": "7%"
+        }
+      ]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "temperature": "25°C",
+      "population": "220 million",
+      "asset_allocation": {
+        "Oil & Gas": "70",
+        "Petrochemicals": "20",
+        "Retail": "10"
+      },
+      "fund_performance": {
+        "2022": "+8%",
+        "2023": "+12%",
+        "2024": "+10%"
+      },
+      "companies": [
+        {
+          "name": "Indian Oil Corporation",
+          "symbol": "IOC",
+          "stock_price_change": "-0.5%",
+          "volume": "1.8 million",
+          "market_capture": "10%"
+        },
+        {
+          "name": "HCL Technologies",
+          "symbol": "HCLT",
+          "stock_price_change": "+1.8%",
+          "volume": "2.2 million",
+          "market_capture": "12%"
+        },
+        {
+          "name": "State Bank of India",
+          "symbol": "SBI",
+          "stock_price_change": "-2.3%",
+          "volume": "3.5 million",
+          "market_capture": "20%"
+        }
+      ]
+    },
+    {
+      "name": "Gujarat",
+      "temperature": "35°C",
+      "population": "63 million",
+      "asset_allocation": {
+        "Logistics": "70",
+        "Energy": "20",
+        "Real Estate": "10"
+      },
+      "fund_performance": {
+        "2022": "+5%",
+        "2023": "+10%",
+        "2024": "+7%"
+      },
+      "companies": [
+        {
+          "name": "Adani Ports and SEZ",
+          "symbol": "ADANIPORTS",
+          "stock_price_change": "+4.5%",
+          "volume": "1.2 million",
+          "market_capture": "8%"
+        },
+        {
+          "name": "Gujarat State Petronet Limited",
+          "symbol": "GSPL",
+          "stock_price_change": "+2.1%",
+          "volume": "0.9 million",
+          "market_capture": "6%"
+        },
+        {
+          "name": "Torrent Power",
+          "symbol": "TORNTPOWER",
+          "stock_price_change": "-0.8%",
+          "volume": "1.5 million",
+          "market_capture": "9%"
+        }
+      ]
+    }
+  ]
+}
